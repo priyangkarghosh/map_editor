@@ -1,0 +1,79 @@
+{
+  "window_size": [1280,720],
+  "window_fill_colour": [23, 21, 20],
+
+  "ui_fill_colour": [175, 171, 166],
+  "ui_border_colour": [84, 77, 71],
+  "ui_icons_fill_colour": [59, 54, 49],
+  "ui_icons_border_colour": [84, 77, 71],
+
+  "tile_border_colour": [84, 77, 71],
+  "tile_border_width": 3,
+  "tile_display_padding": 8,
+  "tile_scale": 2,
+
+  "layer_opacity": 180,
+
+  "ui_text_colour": [41, 39, 37],
+  "floating_text_colour": [255, 255, 255],
+
+  "ui_select_fill_colour": [218, 237, 242, 80],
+  "ui_select_border_colour": [218, 237, 242, 100],
+
+  "key_mappings": {
+    "enable_grid": 101,
+    "enable_preview": 102,
+    "multiselect": 1073742049,
+
+    "lctrl": 1073742048,
+
+    "undo": 122,
+    "copy": 99,
+    "paste": 118,
+    "cut": 120,
+
+    "save_map": 115,
+    "load_map": 101,
+
+    "change_sheet_right": 100,
+    "change_sheet_left": 97,
+
+    "change_layer_up": 119,
+    "change_layer_down": 115
+  },
+
+  "zoom_speed": 0.2,
+  "min_zoom": 0.6,
+  "max_zoom": 2,
+
+  "pan_padding": [32, 32],
+
+  "min_tile_size": [8, 8],
+  "min_grid_size": [4, 4],
+  "max_tile_size": [32, 32],
+  "max_grid_size": [64, 64],
+
+  "grid_outline_width": 1,
+  "grid_outline_colour": [255, 255, 255, 120],
+
+  "grid_highlight_width": 0,
+  "grid_highlight_colour": [255, 255, 255, 120],
+  "grid_selected_highlight_colour": [255, 255, 255, 120],
+
+  "grid_select_width": 0,
+  "grid_select_colour": [255, 255, 255, 120],
+
+  "grid_border_radius": 0,
+
+  "surf_outline_colour": [255, 255, 255, 225],
+  "surf_outline_width": 2,
+  "surf_border_radius": 0,
+
+  "preview_place_opacity": 150,
+
+  "text_field_colour": [255, 255, 255, 245],
+  "text_field_selected_colour": [255, 255, 255, 215],
+  "text_field_outline_colour": [84, 77, 71, 245],
+
+  "assets_path": "config_files/assets.json"
+}

@@ -1,0 +1,12 @@
+{
+    "autotile_groups": ["sample"],
+    "collision_types": {
+        "default": [198, 119, 164, 120]
+    },
+
+    "rect_outlines": {
+        "default": [198, 119, 164, 200]
+    },
+
+    "rect_width": 4
+}
